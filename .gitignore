@@ -1,0 +1,20 @@
+HELP.md
+build/
+!**/src/main/**
+!**/src/test/**
+gradle/wrapper
+gradlew.bat
+settings.gradle
+gradlew
+### IntelliJ IDEA ###
+
+.idea
+*.iws
+*.iml
+*.ipr
+
+### Gradle ###
+.gradle
+
+### Logs ###
+*.log
